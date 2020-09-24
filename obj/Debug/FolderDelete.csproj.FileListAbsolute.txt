@@ -1,0 +1,6 @@
+C:\Users\KalitaAn\source\repos\FolderDelete\bin\Debug\FolderDelete.exe.config
+C:\Users\KalitaAn\source\repos\FolderDelete\bin\Debug\FolderDelete.exe
+C:\Users\KalitaAn\source\repos\FolderDelete\bin\Debug\FolderDelete.pdb
+C:\Users\KalitaAn\source\repos\FolderDelete\obj\Debug\FolderDelete.csprojAssemblyReference.cache
+C:\Users\KalitaAn\source\repos\FolderDelete\obj\Debug\FolderDelete.exe
+C:\Users\KalitaAn\source\repos\FolderDelete\obj\Debug\FolderDelete.pdb
